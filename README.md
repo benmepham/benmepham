@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Ben
 
-- I'm currently studying towards the final year of my computer science degree.
-- I enjoy programming in python 🐍, javascript and C#.
-- I'm passionate about open source and self hosting.
+- I'm currently studying towards the final year of my computer science degree 📚.
+- I'm interested in full-stack web development 💻 and infrastructure 🖥.
+- I'm passionate about open source and self hosting 🖧.
 - I enjoy tinkering with hardware as much as software.
-- Check out my webste [bjm.me.uk](bjm.me.uk)
+- Check out my webste [bjm.me.uk](bjm.me.uk).
 
 <!--
 **benmepham/benmepham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
