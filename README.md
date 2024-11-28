@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Ben
+### Hi, I'm Ben 👋
 
-- I'm currently studying towards the final year of my computer science degree 📚.
+- I'm currently working as a DevOps/Platform Engineer at Global Payments.
 - I'm interested in full-stack web development 💻 and infrastructure 🖧.
 - I'm passionate about open source and self hosting 🖥.
 - I enjoy tinkering with hardware as much as software.
